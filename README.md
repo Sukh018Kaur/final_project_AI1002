@@ -35,3 +35,6 @@ For further details and methodology, please refer to the original research paper
 **References:**
 
 RoboCrop-CNN-WebApp GitHub Repository](https://github.com/nzb0054/RoboCrop-CNN-WebApp)
+
+**link to data**
+https://www.mdpi.com/2079-9292/10/17/2064
