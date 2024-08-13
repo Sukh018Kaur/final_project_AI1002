@@ -38,3 +38,5 @@ RoboCrop-CNN-WebApp GitHub Repository](https://github.com/nzb0054/RoboCrop-CNN-W
 
 **link to data**
 https://www.mdpi.com/2079-9292/10/17/2064
+
+I used a subset of this dataset as it was large data.
